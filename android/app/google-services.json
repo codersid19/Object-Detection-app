@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925986822005",
+    "project_id": "imagetextconverter-ab131",
+    "storage_bucket": "imagetextconverter-ab131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925986822005:android:a1d06ffd462e6cec9ba53c",
+        "android_client_info": {
+          "package_name": "com.example.flutte_cvapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925986822005-r4mkv416ro6h4i81uqhgvhmqmspq2gat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVv48h8FtV5p4tDSAz0ZM-bG1ajCjuWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925986822005-r4mkv416ro6h4i81uqhgvhmqmspq2gat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
